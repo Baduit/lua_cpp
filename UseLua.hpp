@@ -1,11 +1,11 @@
 //
 // UseLua.hpp for lua in /home/bertho_i/lua
 // 
-// Made by Simon BERTHO
+// Made by Lena BERTHO
 // Login   <bertho_i@epitech.net>
 // 
-// Started on  Thu May 26 14:50:33 2016 Simon BERTHO
-// Last update Thu Dec  8 12:48:29 2016 Simon BERTHO
+// Started on  Thu May 26 14:50:33 2016 Lena BERTHO
+// Last update Thu Dec  8 12:48:29 2016 Lena BERTHO
 //
 
 #ifndef USE_LUA_HPP
